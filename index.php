@@ -6,7 +6,7 @@ echo "
     
     Create a Part in Database
     <br>
-    You Fucker
+    You son of a goat
     <br>
 </head>
     <body>
